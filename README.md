@@ -1,6 +1,6 @@
-# The Complete 2022 Web Development Bootcamp - Tindog Webpage Design
+# Tindog Webpage Design
 
-This is a completed Website design project from [The Complete 2022 Web Development Bootcamp at Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+This is a completed Website design project for Web Development Tindog Webpage
 
 
 ## Overview
