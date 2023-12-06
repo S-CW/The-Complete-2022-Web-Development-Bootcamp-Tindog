@@ -15,7 +15,7 @@ This is a completed Website design project for Web Development Tindog Webpage
 
 ### Links
 
-- Live Site URL: [https://s-cw.github.io/The-Complete-2022-Web-Development-Bootcamp-Tindog-Website/](https://s-cw.github.io/The-Complete-2022-Web-Development-Bootcamp-Tindog-Website/)
+- Live Site URL: [Tindog-Website](https://s-cw.github.io/Tindog-Website/)
 
 
 ## My process
