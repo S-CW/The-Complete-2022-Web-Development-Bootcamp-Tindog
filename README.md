@@ -15,7 +15,7 @@ This is a completed Website design project for Web Development Tindog Webpage
 
 ### Links
 
-- Live Site URL: [Tindog-Website](https://s-cw.github.io/Tindog-Website/)
+- Live Site URL: [Tindog-Website](https://s-cw.github.io/tindog-website/)
 
 
 ## My process
